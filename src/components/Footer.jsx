@@ -21,13 +21,13 @@ const Footer = () => {
       <aside>
         <h2>Social Media</h2>
         <article>
-          <a href="https://www.linkedin.com/in/swapnanilmandal/">
+          <a href="https://www.linkedin.com/in/swapnanilmandal/" target='blank'>
             <AiFillLinkedin />
           </a>
-          <a href="https://www.instagram.com/">
+          <a href="https://www.instagram.com/" target='blank'>
             <AiFillInstagram />
           </a>
-          <a href="https://www.facebook.com/me.swapnanil.mandal">
+          <a href="https://www.facebook.com/me.swapnanil.mandal" target='blank'>
             <AiFillFacebook />
           </a>
         </article>
