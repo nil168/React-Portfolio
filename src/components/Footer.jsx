@@ -5,14 +5,14 @@ import {
   AiFillLinkedin,
   AiOutlineArrowUp,
 } from 'react-icons/ai';
-import logo from '../assets/logo.png'
+import avatar from '../assets/avatar.jpg'
 
 const Footer = () => {
   return (
     <footer>
       <div>
         <img
-          src={logo}
+          src={avatar}
           alt="Founder"
         />
         <h2>Swapnanil mandal</h2>
